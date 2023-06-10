@@ -1,0 +1,5 @@
+#spring:
+#  data:
+#    mongodb:
+#      uri: mongodb+srv://royalnavghan:sri123@royalcluster.j7c5b5f.mongodb.net/?retryWrites=true&w=majority
+#      database: Terraform
